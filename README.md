@@ -1,23 +1,4 @@
-Perfect, I see your details now from image_6.png and image_7.png. Here is your personalized, professional `README.md` code tailored exactly to your cybersecurity and Computer Science background.
-
-It keeps the exact high-impact, badge-driven layout you liked from the reference images, fully mapped to your resume content.
-
----
-
-```markdown
 # Hi there, I'm MOHAMMED SHEZIL NC 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CYBER%20SECURITY%20ANALYST-blue?style=for-the-badge&logo=generic" alt="Cyber Security Analyst" />
-  <img src="https://img.shields.io/badge/SOC%20ANALYST-red?style=for-the-badge&logo=generic" alt="SOC Analyst" />
-  <img src="https://img.shields.io/badge/PENETRATION%20TESTING-orange?style=for-the-badge&logo=generic" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/ETHICAL%20HACKING-purple?style=for-the-badge&logo=generic" alt="Ethical Hacking" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SIEM-teal?style=for-the-badge&logo=generic" alt="SIEM" />
-  <img src="https://img.shields.io/badge/NETWORK%20SECURITY-blue?style=for-the-badge&logo=generic" alt="Network Security" />
-  <img src="https://img.shields.io/badge/INCIDENT%20RESPONSE-grey?style=for-the-badge&logo=generic" alt="Incident Response" />
-</p>
 
 ---
 
@@ -42,7 +23,7 @@ I am an aspiring Cybersecurity and SOC Analyst with a strong B.Tech background i
 ## 🛠️ Tech Stack & Toolkit
 
 | Domain | Technologies & Focus Areas |
-| :--- | :--- |
+| --- | --- |
 | **Security Operations (SOC)** | SIEM Concepts, Log Analysis, Security Monitoring, Incident Response, Threat Assessment Techniques |
 | **Offensive Security** | Penetration Testing, Ethical Hacking, Threat & Vulnerability Management, Active Directory Testing |
 | **Tools & Utilities** | Nmap, Gobuster, Metasploit, Shodan, Burp Suite, Splunk, Wireshark, Sqlmap, Hydra |
@@ -52,48 +33,20 @@ I am an aspiring Cybersecurity and SOC Analyst with a strong B.Tech background i
 ## 📊 GitHub Stats & Ecosystem
 
 | Metric | Target / Status | Logo |
-| :--- | :--- | :--- |
-| **GitHub Profile** | active contributions | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> |
-| **Core Frameworks** | SIEM / Mobile AI / Deep Learning | <img src="https://img.shields.io/badge/Security-Shield?style=flat&color=green" alt="Security" /> |
-| **Primary Environment** | Linux & Network Defense Admin | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" /> |
+| --- | --- | --- |
+| **GitHub Profile** | active contributions |  |
+| **Core Frameworks** | SIEM / Mobile AI / Deep Learning |  |
+| **Primary Environment** | Linux & Network Defense Admin |  |
 
 ---
 
 ## 📂 Projects Portfolio
 
 ### 🧠 Deep Learning & AI Security Projects
-* **Federated Deep Learning On Gan-Augmented Dataset Based Mobile-Web Application For Monkeypox Detection:** 
-  Developed a secure system that remotely predicts monkeypox for sharing case data with administrators. Uses a Convolutional Neural Network (CNN) architecture to implement measures preventing disease spread securely.
-* **Healthcare Mobile App with AI:** 
-  An innovative mobile healthcare application empowered by AI technologies designed for automated disease diagnosis, management, and real-time monitoring to help users proactively manage health data.
+
+* **Federated Deep Learning On Gan-Augmented Dataset Based Mobile-Web Application For Monkeypox Detection:** Developed a secure system that remotely predicts monkeypox for sharing case data with administrators. Uses a Convolutional Neural Network (CNN) architecture to implement measures preventing disease spread securely.
+* **Healthcare Mobile App with AI:** An innovative mobile healthcare application empowered by AI technologies designed for automated disease diagnosis, management, and real-time monitoring to help users proactively manage health data.
 
 ---
 
 ## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/Mohammedshezil">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohammedshezil00@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-```
-
-
-<!--
-**Mohammedshezil/Mohammedshezil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
