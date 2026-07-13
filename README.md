@@ -28,7 +28,7 @@ I am an aspiring Cybersecurity and SOC Analyst with a strong B.Tech background i
 
 * 🎓 **Education:** B.Tech in Computer Science and Engineering from APJ Abdul Kalam Technological University (2021 — 2025).
 * 📜 **Credential:** Offenso Certified Security Professional (OCSP | ID: OHAOCSP375).
-* 📍 **Location:** Kochi, Kerala, India.
+* 📍 **Location:** Thalassery, Kerala, India.
 
 ---
 
